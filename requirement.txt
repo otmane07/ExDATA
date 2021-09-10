@@ -1,0 +1,9 @@
+spacy
+random
+pathlib
+Warnings
+Streamlit 
+re
+
+
+
